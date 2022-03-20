@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Shekhar
 - 👀 I’m a Tech enthusiast and wants to learn new Technologies. 
 - 🌱 I’m currently learning C++ and have few knowledge about java from school days. 
-- 💞️ I’m looking to collaborate with coders and developers to learn from then.
+- 💞️ I’m looking to collaborate with coders and developers to learn from them.
 - 📫 You can contact me on sumitshekhar2564@gmail.com
 
 <!---
